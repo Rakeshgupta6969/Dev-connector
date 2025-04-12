@@ -24,3 +24,17 @@
 
 ## 📁 Project Structure
 
+> Note: Further structure (like routes, models, etc.) can be detailed here if available in your future commits.
+
+## 🛠️ Installation & Usage
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/devconnector_zattas.git
+   cd devconnector_zattas
+npm install
+{
+  "mongoURI": "your_mongodb_connection_string",
+  "jwtSecret": "your_jwt_secret"
+}
+
